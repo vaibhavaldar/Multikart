@@ -1,0 +1,75 @@
+/* background color of wishlish heading */
+.bg-wishlist{
+    background-color:#f8f8f8;
+    padding:20px;
+    color:#222
+}
+
+.wishlist-headinhH2{
+    color:#222;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.listHeadingWish{
+ color:#555;
+ font-size: 20px;
+ font-weight: 600;
+}
+
+.btn-wishlist{
+    background-color:#ff4c3b;
+    color:white;
+    padding:10px;
+    padding-left:25px;
+    padding-right:25px;
+    border:1px solid;
+    font-weight: 600;
+}
+
+.btn-wishlist:hover{
+    background-color: white;
+    color:black;
+    border:1px solid #ff4c3b;
+    transition: 0.5s ease-out;
+}
+
+/* checkout */
+/* form styled labels */
+.checkout_labelform{
+    color:#333;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 24px;
+}
+
+/* Billing details heading style */
+.billingHeading{
+    color:#444;
+    font-weight: 7000;
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+.productTableCheck{
+    background-color: #f9f9f9;
+}
+
+/* error message validation-> */
+.errorsCheckForm{
+    color:red;
+}
+
+/* spanCOD style */
+.paymentCheckForm{
+    color:#6f6f6f;
+    cursor: pointer;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+.labelCheckout::after{
+    content:"*";
+    color:red;
+    font-weight: 600;
+}

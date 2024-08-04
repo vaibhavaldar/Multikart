@@ -1,0 +1,96 @@
+.AppHome{
+  /* background-image: url("https://multikart-react-reactpixelstrap.vercel.app/assets/images/parallax/1.jpg"); */
+ /* background: scroll; */
+}
+  .carousel-container {
+    max-width: 750px;
+    text-decoration-color: black;
+
+  }
+ 
+  .Caption{
+  text-decoration: black;
+    top: 0;
+    bottom: auto;
+    position: absolute;
+    text-align: left;
+    margin-left: 0%;
+    align-items: flex-start;
+}
+.carouselCaption1{
+  color:gray;
+  font-size: 30px;
+  font-family: Lato,sans-serif;
+  margin-top: 3cm;
+  margin-left: 2cm;
+  
+}
+.carouselCaption2{
+  color: black;
+  font-size: 60px ;
+  font-family: var(--bs-body-font-family);
+} 
+.carouselCaption3{
+  color:gray;
+  font-size: 30px;
+  font-family: Lato,sans-serif;
+  margin-top: 3cm;
+  margin-left: 3cm;
+  
+}
+.carouselCaption4{
+  color: black;
+  font-size: 60px ;
+  font-family: var(--bs-body-font-family);
+} 
+.btn{
+  margin-left: 3cm;
+  background-color:orangered;
+  color: white;
+  font-weight: bold;
+}
+.overlay1{
+  color: black;
+  font-size: 50px ;
+  align-items:center;
+  text-align: center;
+  text-align: right;
+ position:right;
+ margin-left: 25%;
+}
+
+.overlay2{
+  color: black;
+  font-size: 50px ;
+  align-items:center;
+  text-align: center;
+  text-align: right;
+ position:right;
+} 
+.cardtext1{
+  color: orangered;
+  text-align: right;
+  margin-right: 1.5cm;
+  margin-top: 1.5cm;
+  line-height: 0%;
+  }
+.cardtext2{
+  text-align:right;
+  font-size: 50px;
+  margin-right: 1.5cm;
+  
+}  
+
+.cardtext3{
+  color: orangered;
+  text-align: right;
+  margin-right: 2.1cm;
+  margin-top: 1.5cm;
+  line-height: 0%;
+}
+.cardtext4{
+  text-align:right;
+  font-size: 50px;
+  margin-right: 1cm;
+  
+}

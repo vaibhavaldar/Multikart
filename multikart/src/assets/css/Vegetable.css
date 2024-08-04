@@ -1,0 +1,42 @@
+/* .line1{
+    display: flex-row;
+    flex: center;
+    justify-content: center;
+    align-items: center;
+    
+} */
+.linehorizontal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+  }
+  
+.linewithsquare{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 500px;
+    height: 2px;
+    background-color: brown;
+}
+  
+  .square {
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+    background-color: brown; /* Color of the square */
+  }
+
+.d{
+    display: flex-row;
+    width: 100vw;
+    height: 50px;
+
+}
+  
+.carousel-image{
+    height: 400px;
+    width: 95%;
+}

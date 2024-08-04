@@ -1,0 +1,59 @@
+.top_space{
+    margin-top: 50px;
+    }
+    .btnMargin{
+    margin-bottom: 20px;
+    margin-left:-425px;
+    border-color: #ff4c3b;
+
+    
+    }
+    .hover:hover{
+        color: #ff4c3b;
+        background-color: white;
+        border-color: #ff4c3b;
+    }
+    .lebMargine{
+        margin-left:-210px;  
+    }
+    .lebMarginePass{
+        margin-left:-225px;  
+    }
+    .redius{
+        border-radius: 0%;
+    }
+    .loginMargin{
+        margin-bottom: 20px; 
+        margin-left:-465px;
+    }
+    .newCustLogin{
+        margin-bottom: 20px; 
+        margin-left:-330px;
+        
+    }
+    .account{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: 330px;
+    }
+    .para{
+        margin-left: 23px;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        text-align: left;
+    }
+    .btnMargin1{
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 300px;
+    --bs-btn-font-size: 1.1rem;
+    border-color: #ff4c3b;
+
+    }
+    .bt-color{
+    background-color:#ff4c3b
+    }
+    
+    .nav{
+     margin-top:60PX;
+    }

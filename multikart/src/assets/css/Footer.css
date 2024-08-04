@@ -1,0 +1,119 @@
+.footer {
+  background-color: rgb(211, 227, 222);
+  padding: 10px;
+}
+
+.form-css {
+  display: flex;
+}
+
+.input-email {
+  width: 400px;
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.subcribe-btn {
+  width: 200px;
+  padding: 5px;
+}
+
+.footer-contant {
+  padding: 5px;
+  margin: 5px;
+}
+
+.ul1 {
+  list-style: none;
+  /* Remove bullets */
+  padding: 0;
+  /* Remove default padding */
+}
+
+.ul1 .li1 {
+  text-decoration: none;
+  /* Remove underlines from anchor links */
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.ul1 .li1 .a1 {
+  color: black;
+  /* Set text color to black */
+  text-decoration: none;
+  /* Remove underlines from anchor links */
+}
+
+
+.li2 {
+  color: black;
+  /* Set text color to black */
+  text-decoration: none;
+  /* Remove underlines from anchor links */
+
+}
+
+.link-for {
+  color: black;
+}
+
+.social-icons {
+  height: 50px;
+  font-size: 35px;
+  width: 30px;
+  text-decoration: none;
+  color: #000;
+}
+
+.icons {
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  height: 40px;
+  margin: 50px;
+  text-decoration: none;
+}
+
+.contact-icon {
+  font-size: 25px;
+  margin: 5px;
+  text-decoration: none;
+  color: #000;
+}
+
+.table-change {
+  padding: 10px;
+  margin: 10px;
+}
+
+.footer-widget {
+  margin-bottom: 10px;
+}
+
+.ul2 {
+  display: flex;
+  justify-content: end;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+
+.ul2 .footer-payment-icons {
+  list-style: none;
+  display: inline-flex;
+}
+
+.ul2 .footer-payment-icons li i {
+  font-size: 30px;
+  padding: 0 2px;
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+  list-style: none;
+}
+
+.i1 {
+  list-style: none;
+  margin-right: 15px;
+  font-size: 25px;
+}
